@@ -11,16 +11,16 @@ Besu is an Apache 2.0 licensed, MainNet compatible, Ethereum client written in J
 
 * [Clisha User Documentation]
 * [ClishaChain Issues]
-* [Docs](https://docs.clishchain.com) for more details.
+* [Docs](https://docs.clishachain.com/) for more details.
 * [Mainnet Explorer](https://clishascan.com)
 * [Testnet Explorer](https://testnet.clishachain.com)
 
 ### Development
 
 For instructions for how to get started with developing on ClishChain please read the
-[Docs](https://docs.clishchain.com) for more details.  
+[Docs](https://docs.clishachain.com/) for more details.  
 
 
 [ClishaChain Issues]: https://github.com/clishachain/clishachain/issues
-[Clisha User Documentation]: https://docs.clishchain.com
+[Clisha User Documentation]: https://docs.clishachain.com/
 [Contributing Guidelines]: CONTRIBUTING.md
